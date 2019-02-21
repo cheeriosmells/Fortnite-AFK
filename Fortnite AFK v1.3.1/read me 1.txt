@@ -1,3 +1,0 @@
-Instructions:
-Install Python 3.5.2 with "python-3.5.2-amd64-webinstall.exe" then open read me2.py with Python
-WHEN INSTALLING PYTHON MAKE SURE TO CHECK "Add Python 3.5 to PATH"
